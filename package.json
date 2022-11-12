@@ -275,6 +275,6 @@
         "vscode-coverage-test-runner": "^1.0.0"
     },
     "dependencies": {
-        "date-fns": "^1.28.3"
+        "date-fns": "^2.29.3"
     }
 }
